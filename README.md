@@ -1,5 +1,5 @@
 ## KapalPuing
-Wreckage airplane detector from UAV view using deep learning.
+Wreckage airplane detector/detection from UAV view using deep learning.
 This code is modified from https://github.com/albanie/mcnSSD.
 
 ### Requirements
@@ -25,7 +25,7 @@ run compile_kapal.m
 kapal_kapuk_train.m
 ```
 
-### Demo
+### Testing
 
 Change the deep model from the script.
 ```
